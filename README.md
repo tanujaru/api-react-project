@@ -32,7 +32,7 @@ Unordered List :-
 * REST API
 ### Useful resources
 
-* Rest Countries API - information about countries via a RESTful API
+* Rest Countries API - information about countries via a RESTfull API
 * Framer Motion - React library for animations
 * React-Libraries.
 
@@ -47,25 +47,25 @@ Unordered List :-
 ##### Displaying border countries in light mode.
 ![Alt](src/Images/csearch4.png)
 ##### Displaying border countries in dark mode.
-Figma
+
 #### What I learned
 I've picked up this project to revise some major concepts of , React Router and REST API. It was also a great project to practice filtering and sorting items that are being rendred on the page. 
-### Building your project
-Initialize your project as a public repository on GitHub. Creating a repo will make it easier to share code with the community .  
+### Building  project
+Initialize  project as a public repository on GitHub. Creating a repo will make it easier to share code with the community. Any one can use the code for learning purpose by cloning my Repository.  
 Look through the designs to start planning out how you'll tackle the project. This step is crucial to help you think ahead for CSS classes to create reusable styles and code.<br>
 ### some commande used:
-npx create-react-app my-app
-cd my-app
-npm install react-router-dom
-npm start
+npx create-react-app my<br>
+cd my-app<br>
+npm install react-router-dom<br>
+npm start<br>
 ### Deploying  project:
-GitHub Pages
-Render
+I am Deploying the Project in Render to deploy my project.
+
+GitHub for integration and deploying. 
+
 
 #### 🙏 Acknowledgments
-I would like to thank, my friends and my mentors in Per scholars.
-
-I like the project concept it was a challenge in frontend Mentor I wanted to solve it according to my coding skills andgot   helped from stalk over flow and dev community.
+I would like to thank, my friends and my Mentors in Per scholars.I like the project concept it was a challenge in Frontend , I wanted to solve it according to my coding skills and got   helped from stakoverflow and dev community and form my Mentors.
 #### 👥 Author
 TR...li.
 
